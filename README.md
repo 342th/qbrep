@@ -1,4 +1,0 @@
-qbrep
-=====
-
-qb repository
